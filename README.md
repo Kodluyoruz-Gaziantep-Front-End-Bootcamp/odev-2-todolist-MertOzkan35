@@ -1,15 +1,15 @@
 # Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+```Hafta-2```
 
 # Homework 
-```Ödev```
+```To Do List APP```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+``` React ,Tailwind ve Redux kullanarak geşitirdiğim To Do List ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Mert Özkan```
