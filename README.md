@@ -8,6 +8,7 @@
 ## Homework Description
 
 ``` React ,Tailwind ve Redux kullanarak geşitirdiğim To Do List ```
+![odev2](https://user-images.githubusercontent.com/107802530/185688710-d7c8a84a-1549-4b39-b026-4e1b5d463264.PNG)
 
 
 ## Author
